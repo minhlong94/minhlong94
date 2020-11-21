@@ -1,16 +1,14 @@
-### Hi there 👋
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=minhlong94&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--
-**minhlong94/minhlong94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minhlong94&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+# About me
+My name is Long. Full name is Luu Minh Long (Luu is the surname). I use the name AerysS on social platforms. I am a CS student in IU-VNUHCMC, Vietnam. I was born in 2000.
 
-Here are some ideas to get you started:
+I am learning Software Engineering at school. I am also learning Machine Learning. In my free time I participate in Kaggle competitions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# How to contact
+Here's how to reach me:  
+[LinkedIn](https://www.linkedin.com/in/minh-long-luu/)  
+Email: <minhlong9413@gmail.com>  
+[Kaggle](https://www.kaggle.com/aeryss)  
+
