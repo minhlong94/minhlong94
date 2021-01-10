@@ -6,11 +6,14 @@ My name is Long. Full name is Luu Minh Long (Luu is the surname). I use the name
 
 I am learning Software Engineering at school. I am also learning Machine Learning. In my free time I participate in Kaggle competitions and I am very active there!
 
+My CV (updated Jan 2021): https://github.com/minhlong94/minhlong94/blob/main/CV_LuuMinhLong.pdf
+
 # How to contact
 Here's how to reach me:  
 [LinkedIn](https://www.linkedin.com/in/minh-long-luu/)  
 Email: <minhlong9413@gmail.com>  
 [Kaggle](https://www.kaggle.com/aeryss)  
+
 
 ## Projects that I made
 My Chinese to Pinyin translator using Streamlit and EasyOCR: https://share.streamlit.io/minhlong94/chinesepinyin-easyocr/main.py
