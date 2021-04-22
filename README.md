@@ -6,7 +6,7 @@ My name is Long. Full name is Luu Minh Long (Luu is the surname). I use the name
 
 Currently my major is Software Engineering, but I also have been learning ML/DL since early 2020. I am active on Kaggle, you can check a few of my projects there!
 
-My CV (updated Jan 2021): https://github.com/minhlong94/minhlong94/blob/main/CV_LuuMinhLong.pdf
+My CV (updated Jan 2021): https://github.com/minhlong94/minhlong94/blob/main/CV_LuuMinhLong_April2021.pdf
 
 # How to contact
 Here's how to reach me:  
