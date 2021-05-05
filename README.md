@@ -14,3 +14,7 @@ Here's how to reach me:
 Email: <minhlong9413@gmail.com>  
 [Kaggle](https://www.kaggle.com/aeryss)  
 
+# Fun Fact
+I cannot learn without any instructor.
+Why?
+'Cause I cannot commit.
