@@ -15,6 +15,4 @@ Email: <minhlong9413@gmail.com>
 [Kaggle](https://www.kaggle.com/aeryss)  
 
 # Fun Fact
-I cannot learn without any instructor.
-Why?
-'Cause I cannot commit.
+Up to May 2021, I spent 410 hours on Dark Souls 3, and 181 hours on The Witcher 3.
