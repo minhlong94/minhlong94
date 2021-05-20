@@ -14,5 +14,7 @@ Here's how to reach me:
 Email: <minhlong9413@gmail.com>  
 [Kaggle](https://www.kaggle.com/aeryss)  
 
+# Kaggle's activitiy, 2020-May 2021
+![alt](https://github.com/minhlong94/minhlong94/blob/main/Screenshot%202021-05-20%20215648.png)
 # Fun Fact
 Up to May 2021, I spent 410 hours on Dark Souls 3, and 181 hours on The Witcher 3.
