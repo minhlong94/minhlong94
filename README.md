@@ -2,7 +2,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minhlong94&layout=compact&exclude_repo=machine-learning,fastpageblog)](https://github.com/anuraghazra/github-readme-stats)
 # About me
-My name is Long. Full name is Luu Minh Long (Luu is the surname). I use the name AerysS on social platforms. I am a CS student in IU-VNUHCMC, Vietnam. I was born in 2000.
+My name is Long. Full name is Luu Minh Long (Luu is the surname). I use the name AerysS on social platforms. I am a CS student in IU-VNUHCMC, Vietnam. I was born in 2000. Before that, I studied high school at [PTNK](http://www.ptnk.edu.vn/).
 
 Currently my major is Software Engineering, but I also have been learning ML/DL since early 2020. I am active on Kaggle, you can check a few of my projects there!
 
