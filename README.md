@@ -6,7 +6,7 @@ My full name is Luu Minh Long (Luu is the surname). I was born in 2000. I use th
 
 I study Software Engineering at my university, but I also learn ML/DL in my free time.
 
-My CV (updated Jan 2021): https://github.com/minhlong94/minhlong94/blob/main/CV_LuuMinhLong_April2021.pdf
+My CV (updated Jan 2021): [link](https://docs.google.com/document/d/1NBvMsWc0g80BqiL3yFJuB1mw9iaalSZ7Rjdk6yyuuZk/edit?usp=sharing)
 
 # How to contact
 Here's how to reach me:  
