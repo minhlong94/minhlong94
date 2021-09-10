@@ -2,7 +2,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minhlong94&layout=compact&exclude_repo=machine-learning,fastpageblog)](https://github.com/anuraghazra/github-readme-stats)
 
-## Visit my blog for more information: [link](minhlong94.github.io/blog).
+## Visit my blog for more information: [link](https://minhlong94.github.io/blog/).
 
 # About me
 My full name is Luu Minh Long (Luu is the surname). I was born in 2000. I use the name `AerysS` on social platforms. I am a CS student in International University - VNUHCM (2018 - Expected 2022) in Vietnam. Before that, I studied high school at [PTNK](http://www.ptnk.edu.vn/).
