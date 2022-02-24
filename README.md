@@ -9,7 +9,6 @@ Summary:
 - Practicing Data Science @ Kaggle (Kaggle discussion Expert and earned some Specialization certificates on Coursera) (2020 - Now). 
 - Researching Computer Vision and Graph Neural Networks under the guidance of postdocs and professors from CMU (2021 - Now).
 - Data Engineer/Analyst @ FPT Software after the internship period. Focuses around Snowflake, AWS, Airflow and MicroStrategy (2021 - Now). 
-- Data Synthesis researcher @ FPT.AI Center.
 
 Sometimes I write (shitpost) blogs [link](https://minhlong94.github.io/blog/).
 
