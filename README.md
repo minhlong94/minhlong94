@@ -19,3 +19,5 @@ Certificates I have:
 Sometimes I write (shitpost) blogs [link](https://minhlong94.github.io/blog/).
 
 My CV (including some papers I have): [Google Docs](https://docs.google.com/document/d/1NBvMsWc0g80BqiL3yFJuB1mw9iaalSZ7Rjdk6yyuuZk/edit?usp=sharing)
+
+I am best reach via [LinkedIn](https://www.linkedin.com/in/minhlong94/) or Email: minhlong9413@gmail.com
