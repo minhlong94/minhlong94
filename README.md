@@ -5,12 +5,17 @@ I usually use the name `AerysS` on social platforms.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minhlong94&layout=compact&exclude_repo=machine-learning,fastpageblog)](https://github.com/anuraghazra/github-readme-stats)
 
 Summary:
-- An undergraduate @ International University - VNUHCM, majoring in Computer Science (2018 - Now). 
-- Practicing Data Science @ Kaggle (Kaggle discussion Expert and earned some Specialization certificates on Coursera) (2020 - Now). 
-- Researching Computer Vision and Graph Neural Networks under the guidance of postdocs and professors from CMU (2021 - Now).
-- Data Engineer/Analyst @ FPT Software after the internship period. Focuses around Snowflake, AWS, Airflow and MicroStrategy (2021 - Now). 
+- Bachelor of CS @ International University - VNUHCM (2018 - 2022). 
+- Expert @ Kaggle (2020 - Now).
+- Researching ML under the guidance of PhD students, postdocs and professors from CMU, WISC and MBZUAI (2021 - Now).
+- Data Engineer/Analyst @ FPT Software. Focuses on Snowflake, AWS, Airflow and MicroStrategy (2021 - Now). 
+
+Certificates I have:
+- Coursera's Deep Learning Specialization (2020)
+- Coursera's Natural Language Processing Specialization (2020)
+- IELTS Academic, Overall 7.5 (2022)
+- Snowflake's SnowPro Core Certificate (2022)
 
 Sometimes I write (shitpost) blogs [link](https://minhlong94.github.io/blog/).
 
-# Fun Fact
-I am a hardcore gamer.
+My CV (including some papers I have): [Google Docs](https://docs.google.com/document/d/1NBvMsWc0g80BqiL3yFJuB1mw9iaalSZ7Rjdk6yyuuZk/edit?usp=sharing)
