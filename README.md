@@ -2,7 +2,10 @@
 I usually use the name `AerysS` on social platforms.
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=minhlong94&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minhlong94&layout=compact&exclude_repo=machine-learning,fastpageblog)](https://github.com/anuraghazra/github-readme-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=minhlong94)](https://github.com/ryo-ma/github-profile-trophy)
 
 Summary:
 - Bachelor of CS @ International University - VNUHCM (2018 - 2022). 
