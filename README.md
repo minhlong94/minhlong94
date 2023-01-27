@@ -1,17 +1,22 @@
 # Hello, my name is Long.
 I usually use the name `AerysS` on social platforms.
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=minhlong94&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minhlong94&layout=compact&exclude_repo=machine-learning,fastpageblog)](https://github.com/anuraghazra/github-readme-stats)
+<div align=center>
+  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=minhlong94&count_private=true&theme=react&bg_color=20232A">
+</div>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=minhlong94)](https://github.com/ryo-ma/github-profile-trophy)
+<table cellspacing="0" cellpadding="0">
+  <tr align="center" valign="middle">
+    <td><img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=minhlong94&theme=react&bg_color=20232A"></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhlong94&langs_count=10?hide=html,css,scss&layout=compact&theme=react&bg_color=20232A"></td>
+  </tr>
+</table>
 
 Summary:
 - Bachelor of CS @ International University - VNUHCM (2018 - 2022). 
-- Expert @ Kaggle (2020 - Now).
-- Researching Machine Learning with PhD students, postdocs and professors from CMU, WISC and MBZUAI (2021 - Now).
-- Data Engineer/Analyst @ FPT Software. Focuses on Snowflake, AWS, Airflow and MicroStrategy (2021 - Now). 
+- Researching Machine Learning with PhD students, postdocs and professors from CMU, UIUC, WISC and MBZUAI (2021 - Now).
+- Data Engineer/Analyst @ FPT Software. Focuses on AWS, Snowflake, Terraform, and PowerBI. 
 
 Certificates I have:
 - Coursera's Deep Learning Specialization (2020)
