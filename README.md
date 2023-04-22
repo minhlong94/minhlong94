@@ -1,6 +1,8 @@
 # Hello, my name is Long.
 I am currently a Data Architect at FPT Software HCM. I am also doing Machine Learning research with Professors and Ph.D. students at CMU, UIUC, WISC, and MBZUAI as a second job. I earned by Bachelor degree at International University - VNUHCM, Vietnam. My CV and LinkedIn are below.
 
+In my free time, I frequently contribute to Stack Overflow and GitHub. I have over 2,300 Stack Overflow reputation points, and have contribute to popular open-source repos, such as PyTorch, facebookresearch, HuggingFace, TensorFlow, acclerate, and NSA cryptography.
+
 <table cellspacing="0" cellpadding="0">
   <tr align="center" valign="middle">
     <td><img align="left" src="https://github-readme-stats.vercel.app/api?username=minhlong94&count_private=true&theme=react&bg_color=20232A"></td>
