@@ -1,5 +1,5 @@
 # Hello, my name is Long.
-I usually use the name `AerysS` on social platforms. 
+I am currently a Data Architect at FPT Software HCM. I am also doing Machine Learning research with Professors and Ph.D. students at CMU, UIUC, WISC, and MBZUAI as a second job. I earned by Bachelor degree at International University - VNUHCM, Vietnam. My CV and LinkedIn are below.
 
 <table cellspacing="0" cellpadding="0">
   <tr align="center" valign="middle">
@@ -10,17 +10,13 @@ I usually use the name `AerysS` on social platforms.
 </table>
 
 
-Summary:
-- Bachelor of CS @ International University - VNUHCM (2018 - 2022). 
-- Researching Machine Learning with PhD students, postdocs and professors from CMU, UIUC, WISC and MBZUAI (2021 - Now).
-- Data Engineer/Analyst @ FPT Software. Focuses on AWS, Snowflake, Terraform, and PowerBI. 
-
-Certificates I have:
+Certificates:
 - Coursera's Deep Learning Specialization (2020)
 - Coursera's Natural Language Processing Specialization (2020)
 - IELTS Academic, Overall 7.5 (2022)
 - Snowflake's SnowPro Core Certificate (2022)
 - Udacity's Data Engineering, Data Analyst, Data Scientist Nanodegrees (2022)
+- MicroStrategy Certified Analyst (2023)
 
 # Related Links
 
