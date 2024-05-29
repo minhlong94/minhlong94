@@ -3,14 +3,7 @@ I am currently a Data Architect at FPT Software HCM. I am also doing Machine Lea
 
 In my free time, I frequently contribute to Stack Overflow and GitHub. I have over 2,300 Stack Overflow reputation points, and have contribute to popular open-source repos, such as PyTorch, facebookresearch, HuggingFace, TensorFlow, acclerate, and NSA cryptography.
 
-<table cellspacing="0" cellpadding="0">
-  <tr align="center" valign="middle">
-    <td><img align="left" src="https://github-readme-stats.vercel.app/api?username=minhlong94&count_private=true&theme=react&bg_color=20232A"></td>
-    <td><img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=minhlong94&theme=react&bg_color=20232A"></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhlong94&langs_count=10?hide=html,css,scss&layout=compact&theme=react&bg_color=20232A"></td>
-  </tr>
-</table>
-
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=minhlong94)](https://github.com/minhlong94)
 
 Certificates:
 - Coursera's Deep Learning Specialization (2020)
