@@ -19,4 +19,4 @@ Certificates:
 
 - I am best reach via [LinkedIn](https://www.linkedin.com/in/minhlong94/) or Email: minhlong9413@gmail.com
 
-- My Stack Overflow flair: <a href="https://stackexchange.com/users/15573539"><img src="https://stackexchange.com/users/flair/15573539.png" width="208" height="58" alt="profile for Minh-Long Luu on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Minh-Long Luu on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
+- My Stack Overflow flair: <a href="https://stackexchange.com/users/15573539/minh-long-luu?tab=reputation"><img src="https://stackexchange.com/users/flair/15573539.png" width="208" height="58" alt="profile for Minh-Long Luu on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Minh-Long Luu on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
